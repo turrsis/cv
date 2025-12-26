@@ -1,77 +1,84 @@
-# **Ярослав Сич**
-**Middle Full-Stack Developer | Senior Full-Stack Developer**
+# Yaroslav Sych
+**Middle/Senior Full-Stack Developer (Tech Lead mindset)**  
+turrsis@gmail.com | +38 (067) 538-01-93  
+Ukraine, Remote, UTC+2  
 
-📍 Житомир, Україна
+---
 
-📧 [turrsis@gmail.com](mailto:turrsis@gmail.com) | 📱 [+38 (067) 538-01-93](tel:+380675380193)
+## Professional Summary
+Full-stack developer with 20+ years in software development, specializing in building SaaS products end-to-end (frontend, backend, infrastructure). Built an AI-assisted website builder with real-time bidirectional **UI ↔ Source Code** synchronization and live WYSIWYG editing. Experienced in coordinating delivery across stakeholders, aligning technical decisions with product/UX needs, and driving execution from idea to production-ready architecture.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/turrsis/) • [GitHub](https://github.com/turrsis) • [Демо SaaS](https://alentena.com)
+---
 
-## **🎯 ЦІЛЬ**
+## Technical Skills
+- **Frontend:** Vue.js 3 (Composition API, Options API), Vuex, JavaScript (ES6+), HTML5, CSS3, Sass/SCSS, TypeScript (code reading/maintenance, typing/refactoring; actively learning)
+- **Backend:** Node.js, Express.js, REST APIs
+- **Infrastructure / DevOps:** Docker, Git, deployment automation
+- **Build Tools:** Vite, Webpack
+- **Databases:** Microsoft SQL Server (MSSQL), SQLite
+- **Testing:** Mocha, Jest
+- **Additional:** C#, Delphi (Pascal), PHP, Zend Framework, VBA
 
-Цікавить позиція Middle/Senior Full-Stack Developer / Team Lead у продуктовій компанії або SaaS-стартапі, де зможу поєднати технічну експертизу з лідерством, фокусом на впровадженням інновацій.
+---
 
-## **👨‍💻 ПРОФІЛЬ**
+## Delivery & Stakeholder Management
+- Owned delivery for a SaaS product end-to-end: scope, priorities, architecture decisions, releases, stabilization, and iterative improvements.
+- Coordinated work with external contractors/freelancers: clarifying requirements, defining scope, tracking progress, and accepting deliverables.
+- Background in IT service delivery/support operations: prioritization, incident resolution, maintaining service continuity, and communicating status to stakeholders.
+- Strong product collaboration: translating business/UX needs into implementable technical solutions and making tradeoffs across impact, timeline, and tech debt.
+- Cross-functional communication with engineers, designers, and business stakeholders; proactive status updates and risk management.
 
-* 20+ років досвіду в розробці програмного забезпечення.
-* Створив SaaS платформу створення сайтів з можливісттю тонкого налаштування UI, **двосторонньою синхронізацією UI ↔ Code** та з підтримкою AI-генерації.
-* Досвід керування (до 15 підлеглих).
-* Досвід у Vue 3, Node.js, Docker.
-* Продуктове мислення, увага до UX, гнучкість між бізнесом і технологіями.
+---
 
-## **🧠 КЛЮЧОВІ НАВИЧКИ**
-* Vue.js 3 (Options API, Composition API), Vuex, JavaScript (ES6+), HTML5, Sass/Scss, CSS3
-* Node.js, Express.js, REST API
-* Docker, Git
-* Vite, Webpack, VS Code
-* Microsoft SQL Server (MSSQL), Sqlite
+## Professional Experience
 
-**🛠️ Додаткові технології та попередній досвід**
-* PHP, C#, Delphi, Clipper, Zend Framework, MS Access
+### Full-Stack Developer — SaaS Website Builder
+**02/2022 – Present**
+- Live demo https://alentena.com (alpha stage)
+- Bootstrapped product (founder-led): owned product architecture, implementation, releases, and continuous improvements.
+- Built an AI-powered platform for generating and editing websites end-to-end (from idea/description to production-ready UI).
+- Implemented a **role-based editor experience** for UI/UX designers, developers, and non-technical users (different UI complexity per role).
+- Delivered a **single source of truth = source code** approach with **real-time bidirectional sync (UI <-> Source Code)** for seamless handoff between roles.
+- Developed a live drag-and-drop WYSIWYG editor with precise component configuration (**pixel-perfect** workflows).
+- Enabled professional developer workflow via **IDE (VS Code) access** to full project sources alongside visual editing.
+- Introduced a **git-friendly** workflow with clean, human-readable diffs/commits suitable for code review and versioning.
+- Built on **Vue.js** (frontend) and **Node.js + Express** (backend), containerized with **Docker**; designed and shipped REST APIs and product infrastructure.
+- Added support for multiple UI libraries: **Vuetify, Element Plus, Quasar**.
 
-**🧑‍🤝‍🧑 М’які навички:**  
-* Лідерство, керівний досвід, продуктовий підхід, орієнтація на UX, командна робота 
+### Owner / Delivery Coordinator (Freelance & Contract Work)
+**01/2009 – 02/2022**
+- Coordinated delivery of software/IT work by engaging freelancers/contractors for different client requests: requirements clarification, task breakdown, timelines, and acceptance criteria.
+- Developed small custom websites (landing pages, small business sites, etc).
+- Subcontracted on an enterprise solution for tracking harmful environmental emissions using **C#**, **Angular**, and **MSSQL**.
 
-## **🧾 ПРОФЕСІЙНИЙ ДОСВІД**
 
-### 🚀 **Full-Stack Developer**
-**Конструктор сайтів**: (альфа-версія) | _02.2022 — дотепер_
-* Спроєктував і реалізував платформу для створення сайтів з можливісттю тонкого налаштування елементів, **двосторонньою синхронізацією UI ↔ Code** та з підтримкою AI-генерації.
-* Реалізував редагування сайтів "наживо", реальний WYSIWYG з миттєвим оновленням UI та вихідних кодів (0,05 - 0,5 секунди).
-* Забезпечив спільну роботу дизайнерів і розробників.
-* Побудував фронтенд на Vue 3 та бекенд на Node.js + Express.
-* Налаштував інфрастуктуру на Docker і автоматизував процес розгортання.
-* Поточна стадія: альфа-версія, обмежене тестування, поступова стабілізація та розвиток функціоналу.
+### Software Developer / Regional Office Director — Softline (Zhytomyr)
+**05/2007 – 12/2008**
+- Developed and implemented software solutions for corporate customers.
+- Managed a regional office (operations + coordination).
 
-### 🚀 **Власник**
-**ФОП: Розробка корпоративного ПЗ** | _01.2009 — 02.2022_
-* **Був субпідрядником** у розробці корпоративного рішення для обліку шкідливих викидів у навколишнє середовище, використовуючи **C#**, **Angular** та **MSSQL**.
-* **Керував командою від 5 до 15 розробників**.
+### Software Engineer — NVP “Krian”
+**07/2006 – 05/2007**
+- Contributed to a social support information system for the Ministry of Labor of Kazakhstan.
+- Participated in requirements analysis: gathering inputs, clarifying workflows, documenting functional requirements.
+- Implemented assigned development tasks and supported QA/UAT by validating fixes and changes.
 
-### 🔹 **Розробник / Директор регіонального офісу**
-**Softline (Житомир)** | _05.2007 — 12.2008_
-* Розробляв та впроваджував програмне забезпечення для корпоративних клієнтів компанії.
-* Керував регіональним офісом.
+### Software Engineer — PrivatBank (Zhytomyr)
+**07/2002 – 07/2006**
+- Supported and developed banking systems.
 
-### 🔹 **Інженер-програміст**
-**НВП “Кріан”** | _07.2006 — 05.2007_
-* Участь у розробці ПЗ соціальної підтримки для Міністерства праці Казахстану.
+---
 
-### 🔹 **Інженер сектору ПЗ**
-**ПриватБанк (Житомир)** | _07.2002 — 07.2006_
-* Підтримка та розробка банківських систем.
+## Education
+**Zhytomyr Engineering Technological Institute** — Systems of Control and Automation (Systems Engineer)
 
-### **🎓 ОСВІТА**
-Житомирський інженерно технологічний інститут
+---
 
-"Системи управління і автоматики", інженер-системотехнік
+## Languages
+- Ukrainian — Native
+- English — Intermediate (technical documentation, written communication; speaking basic)
 
-### **🌐 МОВИ**
-* **Українська** — рідна
-* **Англійська** — Intermediate (читаю технічну документацію, пишу листи; розмовна — базова)
-* **Російська** — розумію, але не використовую в спілкуванні
+---
 
-### **📎 ІНТЕРЕСИ**
-* 🤖 AI в UI/UX-дизайні
-* 🧱 Low-code / No-code платформи
-* 🐟 Риболовля
+## ATS Keywords (optional)
+Full-Stack Developer, Senior Software Engineer, Technical Lead, SaaS, Product Development, Web Applications, Vue.js, Node.js, Express, REST API, JavaScript, Docker, Git, MSSQL, SQLite, CI/CD, Deployment Automation, System Architecture, Stakeholder Management, Delivery Management, Vendor Management, Requirements Gathering, Cross-functional Collaboration, UX-driven Development
